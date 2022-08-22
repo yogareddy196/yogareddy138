@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yogareddy138
+- 👋 Hi, I’m @yogareddy196
 - 👀 I’m interested in artificial intelligence
 - 🌱 I’m currently learning neural networks in deep learning
 - 💞️ I’m looking to collaborate on projects on ai, web & iot
